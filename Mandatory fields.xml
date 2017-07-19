@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><order xmlns="http://www.nvi.co.in/ord_detail" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <vendor>
+      <name>Compulsory</name>
+      <id>Compulsory</id>
+      <sfid>Compulsory</sfid>
+      <vorderid>Compulsory</vorderid>
+   </vendor>
+   <customer>
+      <customer_id>Compulsory</customer_id>
+      <fname>Compulsory</fname>
+      <lname>Compulsory</lname>
+      <email>Compulsory</email>
+   </customer>
+   <order_info>
+      <order_id>Compulsory</order_id>
+      <order_datetime>Compulsory</order_datetime>
+      <order_num_items>Compulsory</order_num_items>
+   </order_info>
+   <delivery_details>
+      <deliver_to>Compulsory</deliver_to>
+      <deliver_method>Compulsory</deliver_method>
+      <deliver_to_title xsi:nil="true" />
+      <deliver_fname>Compulsory</deliver_fname>
+      <deliver_lname>Compulsory</deliver_lname>
+      <deliver_addr1>Compulsory</deliver_addr1>
+      <deliver_addr2></deliver_addr2>
+      <deliver_addr3 />
+      <deliver_city>Compulsory</deliver_city>
+      <deliver_state_prov>Compulsory</deliver_state_prov>
+      <deliver_zip>Compulsory</deliver_zip>
+      <deliver_country>Compulsory</deliver_country>
+      <deliver_country_name>Compulsory</deliver_country_name>
+      <deliver_mobile>Compulsory</deliver_mobile>
+      <deliver_altphone xsi:nil="true" />
+   </delivery_details>
+   <products>
+            <product_info>
+         <product_code>Compulsory</product_code>
+         <description>Compulsory</description>
+         <quantity>Compulsory</quantity>
+         <packing_info />
+         <image_url checksum="Compulsory" fileType="Compulsory">Compulsory</image_url>
+      </product_info>
+         </products>
+   <purchase_info>
+      <billing_address>
+         <full_name>Compulsory</full_name>
+         <addr>Compulsory </addr>
+         <city>Compulsory</city>
+         <stateprov>Compulsory</stateprov>
+         <country>Compulsory</country>
+         <postcode>Compulsory</postcode>
+      </billing_address>
+      <order_invoice>
+         <order_invoice_no>Compulsory</order_invoice_no>
+         <order_invoice_date_time>Compulsory</order_invoice_date_time>
+      </order_invoice>
+      <items>
+                    <item_info>
+            <product_code>Compulsory</product_code>
+            <qty>Compulsory</qty>
+            <description>Compulsory</description>
+            <price>Compulsory</price>
+            <item_total>Compulsory</item_total>
+          </item_info>
+                </items>
+      <shipping>Compulsory</shipping>
+      <tax_info>
+         <tax_name>Compulsory</tax_name>
+         <tax_rate>Compulsory</tax_rate>
+         <tax_value>Compulsory</tax_value>
+      </tax_info>
+      <grand_total>Compulsory</grand_total>
+      <currency>Compulsory</currency>
+      <payment_type>Compulsory</payment_type>
+   </purchase_info>
+</order>
