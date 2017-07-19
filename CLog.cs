@@ -24,7 +24,8 @@ namespace CommonFunctionClassLibrary
         Author :    Lawrence Dias
         created:	23 Feb 2010
         file base:	CLog.cs
-        purpose:	Log Creation and Deletion
+        purpose:	Log Creation and Deletion was done to check stupidity
+
     *************************************************************************************/
 
    public class CLog
