@@ -21,7 +21,7 @@ using System.Security.AccessControl;
 
 namespace CommonFunctionClassLibrary
 { /************************************************************************************
-        Author :    Meghna Shetye
+        Author :    Lawrence Dias
         created:	23 Feb 2010
         file base:	CLog.cs
         purpose:	Log Creation and Deletion
@@ -33,9 +33,10 @@ namespace CommonFunctionClassLibrary
         public string status;
         public string strLogStatus;
         public TimeSpan datediff;
+	public Diff;
 
         /// <summary>
-        /// Added by Meghna Shetye
+        /// Added by Lawrence Dias
         /// On 23 Feb 2010
         /// Takes log file path and log status as input 
         /// and creates the log file with the log status
@@ -53,7 +54,7 @@ namespace CommonFunctionClassLibrary
         }
 
         /// <summary>
-        /// Added by Meghna Shetye
+        /// Added by Lawrence Dias
         /// On 23 Feb 2010
         /// Takes logfiles path as input 
         /// and deletes the log file
@@ -67,7 +68,7 @@ namespace CommonFunctionClassLibrary
         }
 
         /// <summary>
-        /// Added by Meghna Shetye
+        /// Added by Lawrence Dias
         /// On 23 Feb 2010
         /// Takes logfile path  as input 
         /// and returns the log status
